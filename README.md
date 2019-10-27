@@ -16,7 +16,7 @@ En cada asalto, el jugador que tiene el turno grita un insulto. En el caso del o
 
 Una vez se ha presentado el insulto, como, por ejemplo: *"¡Luchas como un ganadero! / ¡Ordeñaré hasta la última gota de sangre de tu cuerpo!"*, el otro jugador tiene que responder con la respuesta correcta (en este caso, la respuesta correcta sería: *“Qué apropiado. Tu peleas como una vaca.”*). Quien gane el asalto obtiene el turno y será quien grite el siguiente insulto.
 
-En el juego original, el jugador va aprendiendo los insultos y sus respuestas a medida que va luchando con otros piratas. En nuestro caso, el jugador ya tiene todas las preguntas y respuestas aprendidas y se le presentarán todas cada vez que vaya a insultar. [Aquí](https://es.wikiquote.org/wiki/El_Secreto_de_Monkey_Island) podéis encontrar los insultos del juego original (podéis ignorar los insultos del Sword Master).
+En el juego original, el jugador va aprendiendo los insultos y sus respuestas a medida que va luchando con otros piratas. En nuestro caso, el jugador ya tiene todas las preguntas y respuestas aprendidas y se le presentarán todas cada vez que vaya a insultar. [Aquí](http://gamelosofy.com/los-insultos-de-el-secreto-de-monkey-island-1/) podéis encontrar los insultos del juego original (podéis ignorar los insultos del Sword Master).
    
 Los puntos básicos que debéis implementar son:
 
