@@ -38,4 +38,4 @@ Los puntos optativos que podéis implementar una vez completados los puntos ante
 - Añadir sonidos.
 - Leer los insultos y respuestas de un fichero de texto o JSON utilizando el directorio [Resources](https://docs.unity3d.com/ScriptReference/Resources.html) de Unity.
 
-Recordad también tener en cuenta los requerimientos generales aplicables a todas las PECs, que podéis encontrar [aquí](https://gitlab.com/uoc-unity2d/importante-pec).
+Recordad también tener en cuenta los requerimientos generales aplicables a todas las PECs, que podéis encontrar [aquí](https://gitlab.com/uoc-unity-2d-2020/importante-pec).
