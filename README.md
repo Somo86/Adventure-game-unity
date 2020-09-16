@@ -2,7 +2,7 @@
 
 ## Fecha de entrega
 
-15 de marzo de 2020.
+14 de octubre de 2020.
 
 ## Descripción
 
