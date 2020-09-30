@@ -1,0 +1,84 @@
+{
+  "insults": [
+    {
+      "id": 1,
+      "insult": "¿Has dejado ya de usar pañales?",
+      "response": "¿Por qué? ¿Acaso querías pedir uno prestado?"
+    },
+    {
+      "id": 2,
+      "insult": "¡No hay palabras para describir lo asqueroso que eres!",
+      "response": "Sí que las hay, sólo que nunca las has aprendido."
+    },
+    {
+      "id": 3,
+      "insult": "¡He hablado con simios más educados que tu!",
+      "response": "Me alegra que asistieras a tu reunión familiar diaria."
+    },
+    {
+      "id": 4,
+      "insult": "¡Llevarás mi espada como si fueras un pincho moruno!",
+      "response": "Primero deberías dejar de usarla como un plumero."
+    },
+    {
+      "id": 5,
+      "insult": "¡Luchas como un ganadero!",
+      "response": "Qué apropiado, tú peleas como una vaca."
+    },
+    {
+      "id": 6,
+      "insult": "¡No pienso aguantar tu insolencia aquí sentado!",
+      "response": "Ya te están fastidiando otra vez las almorranas, ¿Eh?"
+    },
+    {
+      "id": 7,
+      "insult": "¡Mi pañuelo limpiará tu sangre!",
+      "response": "Ah, ¿Ya has obtenido ese trabajo de barrendero?"
+    },
+    {
+      "id": 8,
+      "insult": "¡Ha llegado tu HORA, palurdo de ocho patas!",
+      "response": "Y yo tengo un SALUDO para ti, ¿Te enteras?"
+    },
+    {
+      "id": 9,
+      "insult": "¡Una vez tuve un perro más listo que tu!",
+      "response": "Te habrá enseñado todo lo que sabes."
+    },
+    {
+      "id": 10,
+      "insult": "¡Nadie me ha sacado sangre jamás, y nadie lo hará!",
+      "response": "¿TAN rápido corres?"
+    },
+    {
+      "id": 11,
+      "insult": "¡Me das ganas de vomitar!",
+      "response": "Me haces pensar que alguien ya lo ha hecho."
+    },
+    {
+      "id": 12,
+      "insult": "¡Tienes los modales de un mendigo!",
+      "response": "Quería asegurarme de que estuvieras a gusto conmigo."
+    },
+    {
+      "id": 13,
+      "insult": "¡He oído que eres un soplón despreciable!",
+      "response": "Qué pena me da que nadie haya oído hablar de ti"
+    },
+    {
+      "id": 14,
+      "insult": "¡La gente cae a mis pies al verme llegar!",
+      "response": "¿Incluso antes de que huelan tu aliento?"
+    },
+    {
+      "id": 15,
+      "insult": "¡Demasiado bobo para mi nivel de inteligencia!",
+      "response": "Estaría acabado si la usases alguna vez."
+    },
+    {
+      "id": 16,
+      "insult": "Obtuve esta cicatriz en una batalla a muerte!",
+      "response": "Espero que ya hayas aprendido a no tocarte la nariz."
+    }
+  ]
+}
